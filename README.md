@@ -9,7 +9,8 @@ Cross-Chain Comparison: Conduct in-depth comparisons between Ethereum and Bitcoi
 Predictive Modeling: Utilize the Prophet library to forecast Ethereum prices through December 2024, providing valuable insights for investors and analysts.
 Data Visualization: Generate insightful visualizations using Matplotlib and Seaborn to effectively communicate findings.
 Open-Source Contribution: Contribute to the blockchain and data science community by sharing tools, methods, and insights that can be built upon or adapted for other projects.
-Why This Project?
+
+**Why This Project?**
 Blockchain technology is rapidly transforming industries by enabling decentralized, secure, and transparent systems. Understanding blockchain transaction data is crucial for developers, analysts, and investors looking to make informed decisions in the crypto space. This project equips you with the tools and knowledge to explore and analyze blockchain data, helping you stay ahead in the fast-evolving world of cryptocurrency and decentralized finance (DeFi).
 
 **Technologies Used:**
